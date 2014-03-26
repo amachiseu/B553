@@ -1,0 +1,11 @@
+D:\Users\Zhaozhi Zhang\Documents\Assignments\2013 Spring\B553\Assignments\asst2\PartOfSpeechTagging\PartOfSpeechTagging\PartOfSpeechTagging\bin\Debug\PartOfSpeechTagging.exe
+D:\Users\Zhaozhi Zhang\Documents\Assignments\2013 Spring\B553\Assignments\asst2\PartOfSpeechTagging\PartOfSpeechTagging\PartOfSpeechTagging\bin\Debug\PartOfSpeechTagging.pdb
+D:\Users\Zhaozhi Zhang\Documents\Assignments\2013 Spring\B553\Assignments\asst2\PartOfSpeechTagging\PartOfSpeechTagging\PartOfSpeechTagging\bin\Debug\MarkovChain.dll
+D:\Users\Zhaozhi Zhang\Documents\Assignments\2013 Spring\B553\Assignments\asst2\PartOfSpeechTagging\PartOfSpeechTagging\PartOfSpeechTagging\bin\Debug\MarkovChain.pdb
+D:\Users\Zhaozhi Zhang\Documents\Assignments\2013 Spring\B553\Assignments\asst2\PartOfSpeechTagging\PartOfSpeechTagging\PartOfSpeechTagging\obj\x86\Debug\PartOfSpeechTagging.exe
+D:\Users\Zhaozhi Zhang\Documents\Assignments\2013 Spring\B553\Assignments\asst2\PartOfSpeechTagging\PartOfSpeechTagging\PartOfSpeechTagging\obj\x86\Debug\PartOfSpeechTagging.pdb
+D:\Users\Zhaozhi Zhang\Documents\Assignments\2013 Spring\B553\Assignments\asst2\PartOfSpeechTagging\PartOfSpeechTagging\PartOfSpeechTagging\bin\Debug\Data\bc.small.test
+D:\Users\Zhaozhi Zhang\Documents\Assignments\2013 Spring\B553\Assignments\asst2\PartOfSpeechTagging\PartOfSpeechTagging\PartOfSpeechTagging\bin\Debug\Data\bc.test
+D:\Users\Zhaozhi Zhang\Documents\Assignments\2013 Spring\B553\Assignments\asst2\PartOfSpeechTagging\PartOfSpeechTagging\PartOfSpeechTagging\bin\Debug\Data\bc.tiny.test
+D:\Users\Zhaozhi Zhang\Documents\Assignments\2013 Spring\B553\Assignments\asst2\PartOfSpeechTagging\PartOfSpeechTagging\PartOfSpeechTagging\bin\Debug\Data\bc.train
+D:\Users\Zhaozhi Zhang\Documents\Assignments\2013 Spring\B553\Assignments\asst2\PartOfSpeechTagging\PartOfSpeechTagging\PartOfSpeechTagging\obj\x86\Debug\PartOfSpeechTagging.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Users\Zhaozhi Zhang\Documents\Assignments\2013 Spring\B553\Assignments\asst2\PartOfSpeechTagging\PartOfSpeechTagging\MarkovChain\bin\Debug\MarkovChain.dll
+D:\Users\Zhaozhi Zhang\Documents\Assignments\2013 Spring\B553\Assignments\asst2\PartOfSpeechTagging\PartOfSpeechTagging\MarkovChain\bin\Debug\MarkovChain.pdb
+D:\Users\Zhaozhi Zhang\Documents\Assignments\2013 Spring\B553\Assignments\asst2\PartOfSpeechTagging\PartOfSpeechTagging\MarkovChain\obj\Debug\MarkovChain.dll
+D:\Users\Zhaozhi Zhang\Documents\Assignments\2013 Spring\B553\Assignments\asst2\PartOfSpeechTagging\PartOfSpeechTagging\MarkovChain\obj\Debug\MarkovChain.pdb
+D:\Users\Zhaozhi Zhang\Documents\Assignments\2013 Spring\B553\Assignments\asst2\PartOfSpeechTagging\PartOfSpeechTagging\MarkovChain\obj\Debug\MarkovChain.csprojResolveAssemblyReference.cache
